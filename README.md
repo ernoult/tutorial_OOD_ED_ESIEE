@@ -8,6 +8,8 @@ The following papers are covered in this tutorial:
 + [MSP-like Error Detection](https://arxiv.org/abs/2106.02395)
 + [Bayes by backprop](https://arxiv.org/abs/1505.05424). I did not code this part myself and re-used [this code](https://github.com/ernoult/Weight-Uncertainty-in-Neural-Networks) written by [saxena-mayur](https://github.com/saxena-mayur). 
 
+![GitHub Logo](/example_fig.png)<!-- .element height="20%" width="20%" -->
+
 ## Package requirements
 
 Python >3.6 is required to run this code, along with Pytorch, matplotlib, scikit-learn and ipywidgets (for interactive plots).
