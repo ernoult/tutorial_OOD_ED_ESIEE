@@ -10,7 +10,7 @@ The following papers are covered in this tutorial:
 
 ## Package requirements
 
-Python >3.6 is required to run this code, along with Pytorch, matplotlib and scikit-learn.
+Python >3.6 is required to run this code, along with Pytorch, matplotlib, scikit-learn and ipywidgets (for interactive plots).
 
 Run the following command lines to set the environment using conda:
 ```
@@ -19,4 +19,7 @@ conda activate tutorial
 conda install -c conda-forge matplotlib
 conda install pytorch torchvision -c pytorch
 conda install -c anaconda scikit-learn
+conda install -c conda-forge ipywidgets
 ```
+
+Please have special care for the [extra steps needed to complete ipywidgets installation](https://ipywidgets.readthedocs.io/en/latest/user_install.html). Indeed, depending on the version of jupyter-lab at use, it may not be automatically configured to use widgets.
