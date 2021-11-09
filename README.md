@@ -25,3 +25,14 @@ conda install -c conda-forge ipywidgets
 ```
 
 Please have special care for the [extra steps needed to complete ipywidgets installation](https://ipywidgets.readthedocs.io/en/latest/user_install.html). Indeed, depending on the version of jupyter-lab at use, it may not be automatically configured to use widgets.
+
+
+## Downloading datasets and models
+
+To download the resized ImageNet test dataset and the DenseNet-10 architecture pre-trained on CIFAR-10, run the following commands:
+
+```
+chmmod +x download.sh
+./download.sh
+```
+
