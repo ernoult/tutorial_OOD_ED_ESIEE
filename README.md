@@ -6,7 +6,7 @@ The following papers are covered in this tutorial:
 + [ODIN](https://arxiv.org/abs/1706.02690)
 + [Mahalanobis distance-based ODD](https://arxiv.org/abs/1807.03888)
 + [MSP-like Error Detection](https://arxiv.org/abs/2106.02395)
-+ [Bayes by backprop](https://arxiv.org/abs/1505.05424)
++ [Bayes by backprop](https://arxiv.org/abs/1505.05424). I did not code this part myself and re-used [this code](https://github.com/ernoult/Weight-Uncertainty-in-Neural-Networks) written by [saxena-mayur](https://github.com/saxena-mayur). 
 
 ## Package requirements
 
